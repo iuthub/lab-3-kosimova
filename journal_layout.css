@@ -1,0 +1,59 @@
+.redb {
+	border-style: solid;
+	border-width: 5px;
+	border-color: #A8F0F0;
+	padding: 5px; 
+	text-align: right;
+	background-color: #A8F0F0;
+	}
+.mar{
+	border-bottom-style: dashed;
+	border-width: 2px;
+	border-color: #2716BA;
+	float: left;
+	}
+.yellow{
+	border-style: solid;
+	border-color: #A8F0F0;
+	border-width: 14px;
+	}
+.blue{
+	background-color: #C2E9E9;
+	border-style: solid;
+	border-color: blue;
+	border-width: 4px;
+	height: 170px;
+	margin-top: 10px;
+padding: 5px;
+}
+.blue1{
+	background-color: #C2E9E9;
+	border-style: solid;
+	border-color: blue;
+	border-width: 4px;
+	height: 210px;
+	margin-top: 10px;
+padding: 5px;
+}
+.green{
+	background-color: white;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	}
+.mar1{
+	border-bottom-style: dashed;
+	border-width: 2px;
+	border-color: #2716BA;
+	float: left;
+	}
+.margin {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+html{
+	background-image: url(https://courses.cs.washington.edu/courses/cse190m/09sp/labs/2-journal/images/background.gif);
+}
+img{
+float:right ;
+ }
